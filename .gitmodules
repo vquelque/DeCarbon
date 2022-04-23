@@ -1,0 +1,6 @@
+[submodule "decarbon-frontend"]
+	path = decarbon-frontend
+	url = https://github.com/joaosantos15/decarbon-frontend.git
+[submodule "amsterdam22"]
+	path = backend
+	url = https://github.com/dmuhs/amsterdam22.git
